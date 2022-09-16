@@ -3,9 +3,11 @@
 
 
 
-## ИСР 1.1 ✅
+## Header 2
 
-    >Конспект по PyCharm 
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 
 ## ИСР 1.2 ✅
