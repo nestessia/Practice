@@ -5,9 +5,8 @@
 
 ## ИСР 1.1
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Анализ PyCharm
+
 
 
 ## ИСР 1.2 ✅
