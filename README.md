@@ -11,7 +11,7 @@
 
 ## ИСР 1.2 ✅
 
->🎬 Проектная работа в команде по PyCharm| [`Скринкаст`](https://disk.yandex.ru/i/fJphbiOPAb9TCA) | [`Презентация`](https://github.com/nestessia/Practice/blob/b5e1e85dc5725bbc0a188846030f68313ea56524/PyCharm.pdf)
+>Проектная работа в команде по PyCharm| [`Скринкаст`](https://disk.yandex.ru/i/fJphbiOPAb9TCA) | [`Презентация`](https://github.com/nestessia/Practice/blob/b5e1e85dc5725bbc0a188846030f68313ea56524/PyCharm.pdf)
 
 
 ## ИСР 1.3 ✅
