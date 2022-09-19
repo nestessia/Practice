@@ -15,7 +15,7 @@
 >
 >🎬 Нажми 🠗 🠗 🠗
 >
->[![Смотри наш скринкаст!](Scr.png)](https://disk.yandex.ru/i/fJphbiOPAb9TCA)
+>[![Смотри наш скринкаст!](Scre.png)](https://disk.yandex.ru/i/fJphbiOPAb9TCA)
 
 
 ## ИСР 1.3 ✅
