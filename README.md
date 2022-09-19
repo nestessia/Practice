@@ -12,7 +12,7 @@
 ## ИСР 1.2 ✅
 
 >Проектная работа в команде
-
+[Скринкаст](https://drive.google.com/file/d/10uNRdJ5sqz5hBbzmZdxJkaVw1EBbC2Ct/view?usp=sharing)
 
 ## ИСР 1.3 ✅
 
