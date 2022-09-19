@@ -15,7 +15,7 @@
 >
 >🎬 Нажми 🠗 🠗 🠗
 >
->[![Смотри наш скринкаст!](PyCharm.jpg)](https://disk.yandex.ru/i/fJphbiOPAb9TCA)
+>[![Смотри наш скринкаст!](Screen.png)](https://disk.yandex.ru/i/fJphbiOPAb9TCA)
 
 
 ## ИСР 1.3 ✅
