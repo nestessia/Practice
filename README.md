@@ -13,14 +13,12 @@
 
 >Проектная работа в команде
 >
->[![Смотри наш скринкаст!](PyCharm)](https://drive.google.com/file/d/10uNRdJ5sqz5hBbzmZdxJkaVw1EBbC2Ct/view?usp=sharing)
+>[![Смотри наш скринкаст!](PyCharm)]([https://disk.yandex.ru/i/fJphbiOPAb9TCA)
 
 
 ## ИСР 1.3 ✅
 
 >Документация по Яндекс.Трекер
-
-
 
 
 -------------------------------------
