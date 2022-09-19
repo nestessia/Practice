@@ -28,7 +28,7 @@
 
 ## ВСР 2.2 ☑️
 
->"Инструменты управления задачами и проектной работой", анализ [`Notion`](https://github.com/nestessia/Practice/blob/945667b24eb70f01cab67897f32345723ff78b36/Notion%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202-1.pdf)
+>"Инструменты управления задачами и проектной работой",  [`анализ Notion`](https://github.com/nestessia/Practice/blob/945667b24eb70f01cab67897f32345723ff78b36/Notion%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202-1.pdf)
 
     
     
