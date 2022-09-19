@@ -13,7 +13,7 @@
 
 >Проектная работа в команде
 >
->[![Смотри наш скринкаст!](PyCharm)]((https://disk.yandex.ru/i/fJphbiOPAb9TCA)
+>[![Смотри наш скринкаст!](PyCharm)](https://disk.yandex.ru/i/fJphbiOPAb9TCA)
 
 
 ## ИСР 1.3 ✅
