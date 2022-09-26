@@ -17,7 +17,7 @@
 ## ИСР 1.3 🗸
 
 >Документация по Яндекс.Трекер
-[Презентация](https://github.com/nestessia/Practice/blob/b4982dcb9d2e9a29025fe56f30ee04c5cd67108d/Ytracker.pdf)  и [скринкаст](https://disk.yandex.ru/i/O-ZvvlMNqolmTw)
+[Презентация](https://github.com/nestessia/Practice/blob/b4982dcb9d2e9a29025fe56f30ee04c5cd67108d/Ytracker.pdf) , [скринкаст](https://disk.yandex.ru/i/O-ZvvlMNqolmTw) и обзор 
 
 -------------------------------------
 
