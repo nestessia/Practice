@@ -20,7 +20,7 @@
 
 >[Скринкаст](https://disk.yandex.ru/i/O-ZvvlMNqolmTw) по Яндекс.Трекер
 
->Одиночная часть обзора Яндекс.Трекер
+>[Одиночная часть обзора Яндекс.Трекер] (https://github.com/nestessia/Practice/blob/6e0629c4b85f37508af46dc79732d8f6b2e53a17/%D0%98%D0%A1%D0%A0-1.3%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202-1.pdf)
 
 >[Общий обзор Яндекс.Трекер](https://github.com/nestessia/Practice/blob/e2293cab684e9df6686bee6c5ef06c3e1a9ce21d/%D0%98%D0%A1%D0%A0%201.3%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20ERROR404.pdf)
 
