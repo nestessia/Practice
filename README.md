@@ -5,8 +5,9 @@
 
 ## ИСР 1.1 🗸
 
-> Анализ IDE [PyCharm](https://github.com/nestessia/Practice/blob/d782322b4e607a8870d020f62442ff50b374c25f/PyCharm%20%D0%98%D0%A1%D0%A0%201.1%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202-1.pdf)
+> Мой анализ IDE [PyCharm](https://github.com/nestessia/Practice/blob/d782322b4e607a8870d020f62442ff50b374c25f/PyCharm%20%D0%98%D0%A1%D0%A0%201.1%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202-1.pdf)
 
+>Общий анализ IDE [PyCharm]
 
 
 ## ИСР 1.2 🗸
