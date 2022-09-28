@@ -48,5 +48,5 @@
 
 [Задания по практике](https://github.com/nestessia/Practice/tree/main/Задания%20Практика)
 
-[Отчет](https://github.com/nestessia/Practice/tree/main/Отчет)
+[Отчет](https://github.com/nestessia/Practice/blob/main/Отчет/Отчет%20практика.pdf)
 
